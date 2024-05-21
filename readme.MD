@@ -1,6 +1,6 @@
 # aws vpc custom module
 
-![alt text] (images/image.png)
+![image](https://github.com/chandureddy08/aws-vpc-module/assets/147637075/ca073f14-dbba-403d-ae69-bb08b1ced84b)
 
 This module is developed for abc.com. We are creating following resources. This module creates resources in first 2 AZ for HA.
 
